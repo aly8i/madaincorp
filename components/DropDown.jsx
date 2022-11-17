@@ -1,5 +1,4 @@
 import React,{useState} from 'react'
-import styles from "../styles/dropdown.module.css"
 const DropDown = ({setType,type}) => {
   const [selected,setSelected]=useState("filter ");
   const options = [

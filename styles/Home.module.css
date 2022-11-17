@@ -56,6 +56,7 @@
 .dropDownWrapper{
   margin-top: 7px;
   scale:0.8;
+  z-index: 100;
 }
 .titlesub {
   color: #0070f3;
@@ -109,7 +110,7 @@
   align-items: center;
   justify-content: center;
   flex-wrap: wrap;
-  z-index: -1;
+  z-index: 1;
 }
 
 .logo {
