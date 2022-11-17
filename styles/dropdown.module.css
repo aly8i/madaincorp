@@ -1,4 +1,4 @@
 .up{
-    z-index: 10000;
+    z-index: top;
     background-color: aquamarine;
 }

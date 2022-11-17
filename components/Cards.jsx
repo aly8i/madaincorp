@@ -24,6 +24,7 @@ const shorten = (first,last) =>{
     )
     )
   )
+
 }
 
 export default card
