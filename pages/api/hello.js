@@ -2,5 +2,5 @@
 
 async function handler(req, res) {
 
-   res.status(200).json({ message: 'Hello NextJs Cors!' });
+   res.status(200).json({ message: 'Hello There' });
 }
